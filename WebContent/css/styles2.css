@@ -43,3 +43,8 @@ button {
 	background-color: #222;
 	color: #d1d1d1;
 }
+
+#errormessage {
+	font-size: 18px;
+	color: #f9d13e;
+}

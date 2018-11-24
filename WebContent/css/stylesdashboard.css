@@ -1,3 +1,20 @@
-.fas {
+.fas, .far {
 	margin-right: 0.6em;
+}
+
+.topmarginlib {
+	margin-top: 25px;
+}
+
+.submitButton {
+	display: block;
+	margin: 0 auto;
+}
+
+#search-textbox {
+	width: 800px;
+}
+
+#mainheading {
+	margin-top: 25px;
 }

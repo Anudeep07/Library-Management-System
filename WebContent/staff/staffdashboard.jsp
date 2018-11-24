@@ -12,16 +12,16 @@
 	  <div class="col-sm-6">
 	    <div class="card  text-center">
 	      <div class="card-body">
-	        <h2 class="card-title">Add Students</h2>	        
-	        <a href="AddStudent" class="btn btn-danger">Add</a>
+	        <h2 class="card-title">Issue Books</h2>	        
+	        <a href="IssueBook" class="btn btn-danger">Issue</a>
 	      </div>
 	    </div>
 	  </div>
 	  <div class="col-sm-6">
 	   	 <div class="card text-center">
 	      <div class="card-body">
-	        <h2 class="card-title">Edit Students</h2>	        
-	        <a href="EditStudent" class="btn btn-danger">Edit</a>
+	        <h2 class="card-title">Return Books</h2>	        
+	        <a href="ReturnBook" class="btn btn-danger">Return</a>
 	      </div>
 	    </div>
  	 </div>
