@@ -1,4 +1,4 @@
 # Library-Management-System
 
-Front-end Used : HTML/CSS (Bootstrap Library)
-Back-end Used : JSP & Servlets
+Front-end : HTML/CSS (Bootstrap Library)
+<br>Back-end : JSP & Servlets
